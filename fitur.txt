@@ -1,0 +1,7 @@
+fitur : 
+- rekomendasi system
+- artikel
+- janji temu
+- konsul chatting
+- fitur pengingat untuk pasien (ketika sudah dapat koas)
+- ?
