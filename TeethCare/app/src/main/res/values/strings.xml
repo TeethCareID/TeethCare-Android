@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">TeethCare</string>
+    <string name="email">Email</string>
+    <string name="detail_name">Nama</string>
+    <string name="detail_desc">Deskripsi</string>
+    <string name="detail_keluhan">Detail Keluhan</string>
+    <string name="perlu_isi">Email Tidak Boleh Kosong</string>
+    <string name="format_email">Email yang dimasukkan Salah</string>
+    <string name="isi_password">Password tidak Boleh Kosong</string>
+    <string name="min_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="request">Request Timeout</string>
+    <string name="retry">Retry</string>
+    <string name="login_form">Login Form</string>
+    <string name="password">Password</string>
+    <string name="confirm_pwd">Confirm Password</string>
+    <string name="click_here_to_reset">Click Here to Reset</string>
+    <string name="kirim">Kirim</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="register_form">Register Form</string>
+    <string name="daftar_sekarang">Daftar Sekarang</string>
+    <string name="register">Register</string>
+    <string name="isi_nama">Nama tidak boleh Kosong</string>
+    <string name="add_desc">Deskripsi</string>
+    <string name="add_keluhan">Add Keluhan</string>
+    <string name="upload_img">Upload Profile Image</string>
+    <string name="img_input">Masukkan Gambar</string>
+    <string name="logout">Logout</string>
+    <string name="menghubungkan_pasien">Menghubungkan Koas Dengan \n Pasien</string>
+    <string name="pasien_konsultasi">Pasien mendapatkan konsultasi dan \n perawatan gratis dengan mengunggah \n kondisi Gigi</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="cari_pasien">Cari Pasien Gigi</string>
+    <string name="pencarian_efektif">Pencarian efektif berdasarkan kriteria \n dan data pasien yang dibutuhkan</string>
+    <string name="kualitas_terjamin">Kualitas Terjamin</string>
+    <string name="semua_tahapan">Semua tahapan perawatan yang \n dilakukan koas terus dipantau dokter \n gigi profesional</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_punya_akun">Belum memiliki akun? Daftar</string>
+    <string name="aku_koas">Aku Koas</string>
+    <string name="aku_pasien">Aku Pasien</string>
+    <string name="pilih_user">Pilih User</string>
+    <string name="phone">Phone Number</string>
+    <string name="loading">Loading</string>
+    <string name="gender">Gender</string>
+    <string name="dob">Date of Birth</string>
+    <string name="user_picture">User Picture</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string-array name="jenis_kelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string-array name="kata_kunci">
+        <item>Gigi Berlubang</item>
+        <item>Gigi Kuning</item>
+        <item>Gigi Ngilu</item>
+        <item>Bau Mulut</item>
+    </string-array>
+
+    <string-array name="jenis_gender">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+    <string name="update_pic">Update Gambar</string>
+    <string name="update_email">Update Email</string>
+
+</resources>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "148598333028",
+    "firebase_url": "https://teethcareid-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "teethcareid",
+    "storage_bucket": "teethcareid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148598333028:android:962c54eb2f3fc802f94971",
+        "android_client_info": {
+          "package_name": "com.example.care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148598333028-3lqe1r93fp07te1mbn7gj8v74bs4639i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjB1m2TiH08kXUW0uIiFb79L_wu4Y5nGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148598333028-3lqe1r93fp07te1mbn7gj8v74bs4639i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148598333028:android:50d7059ec889059df94971",
+        "android_client_info": {
+          "package_name": "com.example.teethcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148598333028-3lqe1r93fp07te1mbn7gj8v74bs4639i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjB1m2TiH08kXUW0uIiFb79L_wu4Y5nGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148598333028-3lqe1r93fp07te1mbn7gj8v74bs4639i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148598333028:android:f21b0ae8500d7663f94971",
+        "android_client_info": {
+          "package_name": "com.teethcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148598333028-3lqe1r93fp07te1mbn7gj8v74bs4639i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjB1m2TiH08kXUW0uIiFb79L_wu4Y5nGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148598333028-3lqe1r93fp07te1mbn7gj8v74bs4639i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

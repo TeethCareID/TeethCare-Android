@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/drawable/bentuk_button.xml" value="0.3828125" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/drawable/border.xml" value="0.3828125" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/drawable/ic_email.xml" value="0.3828125" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/drawable/selector.xml" value="0.3828125" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_about.xml" value="0.2609375" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_add_image.xml" value="0.33" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_add_keluhan.xml" value="0.33" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_article.xml" value="0.33" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_data_diri_koas.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_data_diri_pasien.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_detail_artikel.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_detail_keluhan.xml" value="0.33" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_editor.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_forgot_password.xml" value="0.2515625" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_home.xml" value="0.240625" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_keluhan.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_koas_article.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_koas_lainnya.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_koas_lihat_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_koas_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_koas_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_koas_user_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_lainnya.xml" value="0.33" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_main.xml" value="0.265625" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_pertanyaan.xml" value="0.2609375" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_pilihan_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_register.xml" value="0.2957427536231884" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_riwayat_user.xml" value="0.35260416666666666" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_splash.xml" value="0.265625" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_update_profile.xml" value="0.2791666666666667" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_user_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_welcome.xml" value="0.2957427536231884" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_welcome2.xml" value="0.2957427536231884" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/activity_welcome3.xml" value="0.2957427536231884" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/article_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/dropdown_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/item_loading.xml" value="0.13949275362318841" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/layout/keluhan_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/menu/common_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/menu/koas_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/menu/profile_menu.xml" value="0.2953125" />
+        <entry key="..\:/New folder/Folder baru/Folder baru/Folder baru/Bangkit/Mentor/TeetCare/TeethCare/app/src/main/res/xml/provider_path.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

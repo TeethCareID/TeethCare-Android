@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_blue"
+    tools:context=".AboutActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/logo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:text="TeethCare"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TeethCare adalah sebuah aplikasi platform komunikasi yang memfasilitasi interaksi antara koas dokter gigi dengan pengguna. Aplikasi ini memberikan kemudahan bagi koas untuk menemukan pasien mereka kapan saja. Kami memiliki tujuan untuk menghubungkan antara koas dokter gigi dengan pasien, serta menggiatkan pentingnya kesehatan gigi bagi masyarakat. Kami berusaha untuk membantu mahasiswa kedokteran gigi agar lebih mudah mendapatkan pasien sesuai dengan requirement praktik mereka. Selain itu, dengan adanya aplikasi ini diharapkan dapat membantu pasien dalam menemukan ketersediaan jasa perawatan gigi dan mulut dengan biaya yang lebih murah"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:layout_margin="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

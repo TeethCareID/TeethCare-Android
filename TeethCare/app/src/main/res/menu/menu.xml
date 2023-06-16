@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemHome"
+        android:title="Home"
+        android:icon="@drawable/solid_tooth" />
+
+    <item
+        android:id="@+id/itemHistory"
+        android:title="Riwayat"
+        android:icon="@drawable/history"/>
+
+    <item
+        android:id="@+id/itemUser"
+        android:title="User"
+        android:icon="@drawable/iconamoon_profile_fill"/>
+
+    <item
+        android:id="@+id/itemLainnya"
+        android:title="Lainnya"
+        android:icon="@drawable/vector"/>
+
+</menu>

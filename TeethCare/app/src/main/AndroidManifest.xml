@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.teethcare">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TeethCare">
+        <activity
+            android:name=".RiwayatUserActivity"
+            android:exported="false" />
+        <activity
+            android:name=".koas.KoasLainnyaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".koas.KoasUserProfileActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"/>
+        <activity
+            android:name=".koas.DataDiriKoasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".koas.KoasMainActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" />
+        <activity
+            android:name=".koas.KoasLihatDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".koas.KoasRegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PertanyaanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".profil.UpdateProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".detail.DetailArtikelActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LainnyaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ArticleActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KeluhanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".add.AddImageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".register.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailKeluhanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".profil.UserProfileActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" />
+        <activity
+            android:name=".add.DataDiriPasienActivity"
+            android:exported="false" />
+        <activity
+            android:name=".add.AddKeluhanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".password.ForgotPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".register.PilihanRegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".welcome.WelcomeActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".welcome.WelcomeActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".welcome.WelcomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_path" />
+        </provider>
+    </application>
+
+</manifest>
